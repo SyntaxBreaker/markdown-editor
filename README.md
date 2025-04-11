@@ -1,4 +1,4 @@
-# MarkdownEditor
+# Markdown Editor
 A spartan online Markdown Editor.
 
 ## 🛠️ Installation Steps:
