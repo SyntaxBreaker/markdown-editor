@@ -8,6 +8,9 @@ npm start
 ```
 
 ## 💻 Technologies used in the project:
-*   React
-*   styled-components
-*   marked
+* React
+* styled-components
+* marked
+
+## Author
+- **[SyntaxBreaker]**: [[GitHub](https://www.github.com/SyntaxBreaker)] [[Website](https://syntaxbreaker.netlify.app)]
